@@ -1,0 +1,8 @@
+josh.policy.app-pngs-0 /home/josh/workspace/policy-dpc/app/build/generated/res/pngs/release
+josh.policy.app-updated_navigation_xml-1 /home/josh/workspace/policy-dpc/app/build/generated/updated_navigation_xml/release
+josh.policy.app-packageReleaseResources-2 /home/josh/workspace/policy-dpc/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+josh.policy.app-packageReleaseResources-3 /home/josh/workspace/policy-dpc/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+josh.policy.app-release-4 /home/josh/workspace/policy-dpc/app/build/intermediates/merged_res/release/mergeReleaseResources
+josh.policy.app-main-5 /home/josh/workspace/policy-dpc/app/src/main/res
+josh.policy.app-release-6 /home/josh/workspace/policy-dpc/app/src/release/res
+gradleHome-0 /home/josh/.gradle

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "josh.policy.app-release-3:/xml_device_admin.xml.flat",
+        "source": "josh.policy.app-main-4:/xml/device_admin.xml"
+    }
+]

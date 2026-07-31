@@ -1,0 +1,4 @@
+josh.policy.test.app-androidTest-0 /home/josh/workspace/policy-dpc/app/build/generated/res/resValues/androidTest/debug
+josh.policy.test.app-mergeDebugAndroidTestResources-1 /home/josh/workspace/policy-dpc/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+josh.policy.test.app-mergeDebugAndroidTestResources-2 /home/josh/workspace/policy-dpc/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+josh.policy.test.app-debugAndroidTest-3 /home/josh/workspace/policy-dpc/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
